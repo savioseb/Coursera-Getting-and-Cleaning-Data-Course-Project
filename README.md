@@ -5,6 +5,9 @@ date: "February 22, 2015"
 output: html_document
 ---
 
+<BR>
+Please <a href='http://bit.ly/1GftLk8'>click here</a> to view a HTML version of this markdown document which will give more information about script execution.
+
 <br>
 <br>
 
