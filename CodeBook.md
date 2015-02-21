@@ -5,6 +5,7 @@ date: "February 22, 2015"
 output: html_document
 ---
 
+Click <a href='http://bit.ly/1JxgSaH'>here</a> to see the HTML Version of this CodeBook.
 
 <BR>
 <BR>
